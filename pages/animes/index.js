@@ -12,7 +12,7 @@ const index = ({ anime }) => {
                 <Row>
                     <Col>
                         <Table striped bordered hover>
-                            <thead>
+                            <thead >
                                 <tr>
                                     <th>Detalhes</th>
                                     <th>Título</th>
